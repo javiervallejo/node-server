@@ -1,0 +1,14 @@
+{
+  "name": "server-test",
+  "version": "1.0.0",
+  "description": "example server express test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "javier",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
